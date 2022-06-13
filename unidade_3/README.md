@@ -1,9 +1,17 @@
 # Unidade 3
 
+### Como executar um projeto
 
-Para rodar os projetos você tem que trocar as branches:
+```bash
+# Instale as dependências
+npm install
 
-git checkout 3c - "Hello, World" // npm install // npm start <br />
-git checkout 3d - GPS // npm install // npm start <br />
-git checkout 3e - Câmera // npm install // npm start  <br />
-git checkout 3f - Acelerômetro // npm install // npm start 
+# Execute o projeto
+npm start
+```
+
+### Exercícios disponíveis
+3C. Hello, world\
+3D. GPS\
+3E. Câmera\
+3F. Acelerômetro
